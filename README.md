@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi. My Name is Klaudiusz Lech.
-I'm 34.
+
