@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi. My Name is Klaudiusz Lech.
+Hi. My Name is Klaudiusz Lech. Working toward a career in software development. I love solving problems and turning challenges into opportunities.
 
